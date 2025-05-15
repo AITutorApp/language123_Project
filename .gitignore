@@ -1,0 +1,3 @@
+node_modules/ # plus any other temp files
+node_modules/
+.env
