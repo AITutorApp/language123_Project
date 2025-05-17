@@ -1,3 +1,10 @@
-node_modules/ # plus any other temp files
+# Node modules
 node_modules/
+# Firebase debug logs
+firebase-debug.log
+# Firebase local emulator files
+.firebase/
+# macOS
+.DS_Store
+# Environment variables
 .env
